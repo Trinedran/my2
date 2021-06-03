@@ -1,0 +1,22 @@
+#img1{
+  width:900px;
+}
+body{
+  text-align:center;
+}
+.links{
+  float:left;
+  padding-left:50px;
+  padding-right:50px;
+    font-size: 30px;
+  position
+}
+#div1{
+  background-color:blue;
+}
+#div2{
+  background-color:yellow;
+}
+#myNavbar{
+  background-color:green;
+}
